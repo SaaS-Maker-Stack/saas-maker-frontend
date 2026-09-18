@@ -30,3 +30,6 @@ dist-ssr
 
 # Kamal secrets
 .kamal/secrets
+
+# vitest json reporter output
+.vitest/
